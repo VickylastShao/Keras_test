@@ -1,6 +1,6 @@
 # Keras_test
-# Keras 建模测试
+# Keras Modelling
 
 
- # 作者邮箱：vickshao@foxmail.com
+ # E-mail：vickshao@foxmail.com
  
