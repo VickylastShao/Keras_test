@@ -1,6 +1,5 @@
 # Keras_test
-# Keras Modelling
+# Industrial System Modeling and Application with Deeplearning
 
-
- # E-mail：vickshao@foxmail.com
+# E-mail：vickshao@foxmail.com
  
